@@ -1,0 +1,34 @@
+<%@ page language="java" contentType="text/xml; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<users>
+	<user>
+		<id>java01</id>
+		<name>김주현</name>
+		<email>java@gmail.com</email>
+	</user>
+		<user>
+		<id>java02</id>
+		<name>김주현</name>
+		<email>java@gmail.com</email>
+	</user>
+		<user>
+		<id>java03</id>
+		<name>김주현</name>
+		<email>java@gmail.com</email>
+	</user>
+		<user>
+		<id>java04</id>
+		<name>김주현</name>
+		<email>java@gmail.com</email>
+	</user>
+		<user>
+		<id>java05</id>
+		<name>김주현</name>
+		<email>java@gmail.com</email>
+	</user>
+		<user>
+		<id>java06</id>
+		<name>김주현</name>
+		<email>java@gmail.com</email>
+	</user>
+</users>
